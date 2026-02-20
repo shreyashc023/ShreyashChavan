@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on **IBM India**
+- 🔭 I’m currently working in **IBM India**
 - 📫 How to reach me **shreyashc023@gmail.com**
 
 ---

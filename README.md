@@ -1,75 +1,79 @@
-<p align="center">
-  <img src="ChatGPT Image Feb 20, 2026, 07_10_06 PM.png" width="100%" />
-</p>
+![logo](banner.png)
 
 <h1 align="center">Hi 👋, I'm Shreyash Chavan</h1>
 <h3 align="center">Backend Engineer | Java • Spring Boot • Microservices • Banking Domain</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyashc023&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shreyashc023&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashc023" /> 
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 💼 Backend Developer working on **Enterprise Banking Platforms**
-- 🏦 Specialized in **Retail & Corporate Banking Systems**
-- ⚡ Passionate about **Reactive Microservices Architecture**
-- 🔐 Focused on Secure & Scalable API Development
-- 🌱 Currently exploring **System Design & Cloud Architecture**
+- 🔭 I’m currently working on **IBM India**
+- 📫 How to reach me **shreyashc023@gmail.com**
 
 ---
 
-## 🏢 Professional Experience
-
-### 🏦 VYOM 2.0 – Enterprise Banking Backend  
-**Client:** Union Bank of India  
-
-- Developed reactive microservices using Spring WebFlux  
-- Implemented CQRS for optimized read/write operations  
-- Improved API performance by 20–30%  
-- Reduced redundant service calls by 40–50%  
-- Integrated Cassandra & PostgreSQL  
-- Implemented JWT-based authentication  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shreyashc023" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-### 🏦 Retail & Corporate Banking Enhancements  
-**Client:** Bank of India  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-- Delivered 50% enhancements ahead of timeline  
-- Standardized exception handling across services  
-- Reduced debugging effort by 25%  
-- Optimized caching for frequently accessed data  
-- Improved workflow automation by 20%  
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
 
----
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+</a>
 
-## 🛠 Languages and Tools
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,cassandra,docker,kubernetes,git,linux" />
+<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="cassandra" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyashc023&show_icons=true&theme=tokyonight" />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashc023&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashc023&theme=tokyonight" />
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashc023&show_icons=true&locale=en&theme=tokyonight" alt="github-stats" />
 </p>
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashc023&theme=tokyonight" alt="streak-stats" />
 </p>

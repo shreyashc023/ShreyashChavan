@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="ChatGPT Image Feb 20, 2026, 07_10_06 PM.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreyash Chavan</h1>
